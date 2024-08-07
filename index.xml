@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CIS 706/801: Translator Design I &amp; II, Fall 2024 on CIS 706/801: Translator Design I &amp; II Website</title>
+    <link>https://f24.compilers.santoslab.org/</link>
+    <description>Recent content in CIS 706/801: Translator Design I &amp; II, Fall 2024 on CIS 706/801: Translator Design I &amp; II Website</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://f24.compilers.santoslab.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Advice</title>
+      <link>https://f24.compilers.santoslab.org/advice/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://f24.compilers.santoslab.org/advice/</guid>
+      <description>How To Survive in This Course We cover a lot of materials in this course, and it is easy to get lost quickly if you do not keep up daily. We try to do several things to help you keep up. We provide the lecture slides and links to some additional resources.&#xA;Besides all these, there are a number of things that you should do to make sure that you are getting the most out of the course.</description>
+    </item>
+    <item>
+      <title>Notes</title>
+      <link>https://f24.compilers.santoslab.org/notes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://f24.compilers.santoslab.org/notes/</guid>
+      <description>CIS Account If you do not have a CIS account, here is how to get one:&#xA;Get a K-State eID if you don’t already have one. Sign up online for a CIS account (which requires an active eID first!). The account manager will approve your account and you will receive a password by email to by your eID account. GitHub Account Coursework submissions will be done via GitHub. In the beginning of the course, each student will be given a private GitHub repository; thus, you need to have a GitHub account.</description>
+    </item>
+    <item>
+      <title>Projects</title>
+      <link>https://f24.compilers.santoslab.org/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://f24.compilers.santoslab.org/projects/</guid>
+      <description>Example Project – Static Java Compiler (sjc) Static Java Compiler (sjc) is a compiler for a strict “static” (procedural) subset of Java (a compiler for structured programs in Java without objects). This project is used to illustrate various concepts in designing and implementing a translator.&#xA;Features/Limitations of Static Java&#xA;Only two variable types: boolean and int No objects (thus, no exception handling), arrays, or threads Only static fields and methods Method return type can be the above type and void No method overloading Can call Java library static methods (e.</description>
+    </item>
+    <item>
+      <title>Schedule</title>
+      <link>https://f24.compilers.santoslab.org/schedule/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://f24.compilers.santoslab.org/schedule/</guid>
+      <description>Week. Lab: Date Lectures Reading Lab T: Aug 20 Scanners Parsers Dragon Ch. 1 - 2.3 &amp;amp; Ch. 3 IntelliJ docs Git docs JUnit docs Course Overview Install Sireum IVE Set up private repos U: Aug 29 Top-down Parsers ANTLR4 Dragon Ch. 2.4 - 2.9 &amp;amp; Ch. 4 ANTLR4 docs Project M1: Scanner &amp;amp; Parser (due Sep 11) Demo: Sireum IVE ANTLRv4 Plugin U: Sep 5 Abstract Syntax Tree Eclipse JDT Dragon Ch.</description>
+    </item>
+    <item>
+      <title>Syllabus</title>
+      <link>https://f24.compilers.santoslab.org/syllabus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://f24.compilers.santoslab.org/syllabus/</guid>
+      <description>Purpose The course will teach modern compiler techniques applied to general-purpose programming language. The goal of the course is to give students a working knowledge of the foundations, tools, and engineering approaches used in developing formal language translators. The emphasis is on the construction of compilers to position students to build translators for little languages in their careers.&#xA;Course Topics Compilers and interpreters, including description of languages, finite state scanners, parsing, symbol tables, syntax directed semantics, code generation, and static analysis.</description>
+    </item>
+  </channel>
+</rss>
